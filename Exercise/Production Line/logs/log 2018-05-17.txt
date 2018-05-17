@@ -1,0 +1,23 @@
+17.05.2018 18:56:15 UI initialized 
+17.05.2018 18:58:00 UI initialized 
+17.05.2018 19:00:28 UI initialized 
+17.05.2018 19:01:17 UI initialized 
+17.05.2018 19:01:17 Initializing PLC... 
+17.05.2018 19:01:17 Model initilalized 
+17.05.2018 19:01:17 DAQ module initialized 
+17.05.2018 19:01:17 LOG module initialized 
+17.05.2018 19:01:17 PLC initialization successful! 
+17.05.2018 19:01:17 Line has been powered 
+17.05.2018 19:01:18 Starting process... 
+17.05.2018 19:01:18 Process has started 
+17.05.2018 19:01:27 No power! 
+17.05.2018 19:01:44 Line has been powered 
+17.05.2018 19:01:46 No power! 
+17.05.2018 19:01:51 Line has been powered 
+17.05.2018 19:02:06 Liquid level overflow! 
+17.05.2018 19:02:10 Another barrel filled 
+17.05.2018 19:02:31 Liquid level overflow! 
+17.05.2018 19:02:32 Another barrel filled 
+17.05.2018 19:02:47 Another barrel filled 
+17.05.2018 19:03:09 Liquid level overflow! 
+17.05.2018 19:03:11 Another barrel filled 
